@@ -15,79 +15,88 @@ Hi there! I'm a passionate developer who enjoys building clean, efficient, and i
 Feel free to reach out—I'm always open to interesting conversations and opportunities!
 
 ---
+## 💡 Skills & Tech Stack
 
-### 💻 Tech Stack
-
-#### 👨‍💻 Programming Languages
-
+### 👨‍💻 Programming Languages
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36"/><br/><sub><b>C</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36"/><br/><sub><b>C++</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/><br/><sub><b>Python</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/><br/><sub><b>Java</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c&theme=dark" /><br/>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /><br/>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" /><br/>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" /><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" /><br/>Java</td>
   </tr>
 </table>
 
-#### 🌐 Frontend Development
+---
 
+### 🌐 Frontend Development
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/><br/><sub><b>HTML5</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"/><br/><sub><b>CSS3</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36"/><br/><sub><b>Bootstrap</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/><br/><sub><b>React</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36"/><br/><sub><b>Flutter</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" /><br/>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" /><br/>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" /><br/>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" /><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" /><br/>Flutter</td>
   </tr>
 </table>
 
-#### ⚙️ Backend Development
+---
 
+### ⚙️ Backend Development
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/><br/><sub><b>Node.js</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36"/><br/><sub><b>Express.js</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36"/><br/><sub><b>FastAPI</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" /><br/>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" /><br/>FastAPI</td>
   </tr>
 </table>
 
-#### 🛢️ Databases & Cloud
+---
 
+### 🗄️ Databases & Cloud
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/><br/><sub><b>MongoDB</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36"/><br/><sub><b>Firebase</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36"/><br/><sub><b>Oracle</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36"/><br/><sub><b>GCP</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="36"/><br/><sub><b>Netlify</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="36"/><br/><sub><b>Vercel</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /><br/>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" /><br/>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" /><br/>GCP</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" /><br/>Netlify</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" /><br/>Vercel</td>
+    <td align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/120px-Oracle_logo.svg.png" width="40" alt="Oracle" /><br/>Oracle
+</td>
+
   </tr>
 </table>
 
-#### 🧠 Data Science & Machine Learning
+---
 
+### 🧠 Data Science & Machine Learning
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36"/><br/><sub><b>OpenCV</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36"/><br/><sub><b>TensorFlow</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36"/><br/><sub><b>Pandas</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="36"/><br/><sub><b>Matplotlib</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" /><br/>OpenCV</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" /><br/>TensorFlow</td>    <td align="center">
+      <img src="https://cdn.simpleicons.org/pandas/white" width="40"/><br/>Pandas
+    </td>
+    <td align="center">
+      <img src="https://matplotlib.org/_static/images/logo2.svg" width="40"/><br/>Matplotlib
+    </td>
   </tr>
 </table>
 
-#### 🛠️ Tools & Platforms
+---
 
+### 🛠️ Tools & Platforms
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/><br/><sub><b>Git</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/><br/><sub><b>GitHub</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36"/><br/><sub><b>Linux</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36"/><br/><sub><b>Figma</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" /><br/>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" /><br/>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /><br/>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma&theme=dark" /><br/>Figma</td>
   </tr>
 </table>
 
-
+---
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=syam-praneeth&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
