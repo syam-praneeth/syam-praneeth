@@ -1,5 +1,7 @@
 ### 👋 About Me
 
+<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=450&size=22&pause=1000&color=1EB0F7&background=B5B41400&center=true&vCenter=true&width=435&lines=Hello%2C+I%20am%20Praneeth%20Singuluri.;Full%20Stack%20Developer.;Software%20and%20AI%20Engineer." alt="Typing SVG"> </a> </p>
+
 Hi there! I'm a passionate developer who enjoys building clean, efficient, and impactful software. Whether it's backend logic, systems programming, or exploring low-level code in C++, I love solving real-world problems with code.
 
 - 🔧 I work mainly with **C++**, but I’m also comfortable with other languages like Python and JavaScript when needed.  
