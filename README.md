@@ -105,10 +105,4 @@ Feel free to reach out—I'm always open to interesting conversations and opport
 ![](https://nirzak-streak-stats.vercel.app/?user=syam-praneeth&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syam-praneeth&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=syam-praneeth&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=syam-praneeth&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
