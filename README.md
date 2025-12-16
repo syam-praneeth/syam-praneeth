@@ -1,12 +1,5 @@
 ### 👋 About Me
 
-<div style="text-align: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Fira+code&duration=1500&pause=100&color=23CDF7&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hello%2C+I+am+Praneeth+Singuluri" alt="Typing SVG" />
-  </a>
-</div>
-
-
 Hi there! I'm a passionate developer who enjoys building clean, efficient, and impactful software. Whether it's backend logic, systems programming, or exploring low-level code in C++, I love solving real-world problems with code.
 
 - 🔧 I work mainly with **C++**, but I’m also comfortable with other languages like Python and JavaScript when needed.  
