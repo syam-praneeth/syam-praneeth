@@ -12,7 +12,7 @@ Hi there! I'm a passionate developer who enjoys building clean, efficient, and i
 
 ### 📫 Let’s Connect
 
-Feel free to reach out—I'm always open to interesting conversations and opportunities!!
+Feel free to reach out—I'm always open to interesting conversations and opportunities!! 
 
 ---
 ## 💡 Skills & Tech Stack
