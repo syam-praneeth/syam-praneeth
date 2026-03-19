@@ -1,23 +1,23 @@
-### 👋 About Me
+### About Me
 
 Hi there! I'm a passionate developer who enjoys building clean, efficient, and impactful software. Whether it's backend logic, systems programming, or exploring low-level code in C++, I love solving real-world problems with code.
 
-- 🔧 I work mainly with **C++**, but I’m also comfortable with other languages like Python and JavaScript when needed.  
-- 🧠 Always curious—currently diving deeper into performance optimization and system design.  
-- 🚀 I enjoy contributing to open-source projects and collaborating with developers from around the world.  
-- 📚 Lifelong learner: constantly exploring new tech, reading docs, and experimenting with code.  
-- ☕ Outside of coding, I’m probably sipping coffee or working on a side project.
+-  I work mainly with **C++**, but I’m also comfortable with other languages like Python and JavaScript when needed.  
+-  Always curious—currently diving deeper into performance optimization and system design.  
+-  I enjoy contributing to open-source projects and collaborating with developers from around the world.  
+-  Lifelong learner: constantly exploring new tech, reading docs, and experimenting with code.  
+-  Outside of coding, I’m probably sipping coffee or working on a side project.
 
 ---
 
-### 📫 Let’s Connect
+###  Let’s Connect
 
 Feel free to reach out—I'm always open to interesting conversations and opportunities!! 
 
 ---
-## 💡 Skills & Tech Stack
+##  Skills & Tech Stack
 
-### 👨‍💻 Programming Languages
+###  Programming Languages
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=c&theme=dark" /><br/>C</td>
@@ -30,7 +30,7 @@ Feel free to reach out—I'm always open to interesting conversations and opport
 
 ---
 
-### 🌐 Frontend Development
+###  Frontend Development
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" /><br/>HTML</td>
@@ -43,7 +43,7 @@ Feel free to reach out—I'm always open to interesting conversations and opport
 
 ---
 
-### ⚙️ Backend Development
+###  Backend Development
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /><br/>Node.js</td>
@@ -54,7 +54,7 @@ Feel free to reach out—I'm always open to interesting conversations and opport
 
 ---
 
-### 🗄️ Databases & Cloud
+###  Databases & Cloud
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /><br/>MongoDB</td>
@@ -71,7 +71,7 @@ Feel free to reach out—I'm always open to interesting conversations and opport
 
 ---
 
-### 🧠 Data Science & Machine Learning
+###  Data Science & Machine Learning
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" /><br/>OpenCV</td>
@@ -86,7 +86,7 @@ Feel free to reach out—I'm always open to interesting conversations and opport
 
 ---
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" /><br/>Git</td>
@@ -98,7 +98,7 @@ Feel free to reach out—I'm always open to interesting conversations and opport
 
 ---
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 <div align="center" height="300">
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=syam-praneeth&theme=shadow_blue&hide_border=false" alt="Streak Stats" width="420" height="420" />
